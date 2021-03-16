@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3WyFcI/BoU3Za2tUiX4R+4K7kHCzXVQIza69ip1iywzCSzTrzTqamxzC/Pb36AYL40/RBFzdUbcDpzWBCtXGJQ==",
+  "dgSpecHash": "wKWc/Vz4EBSqesEUtYlrnc3qoALTfvFpirfyObxVJOFzLOdIa2WoLc7uEZ8L05NJ/xdqoNWPOtUhJ9OuCg9sRg==",
   "success": true,
-  "projectFilePath": "/home/eliezer/sandbox/dio/DIO.Series/DIO.Series.csproj",
+  "projectFilePath": "C:\\workspace\\CRUDE\\dio-dotnet-poo-lab-2-master\\DIO.Series.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

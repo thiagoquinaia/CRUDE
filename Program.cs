@@ -46,9 +46,21 @@ namespace DIO.Series
         private static void ExcluirSerie()
 		{
 			Console.Write("Digite o id da série: ");
-			int indiceSerie = int.Parse(Console.ReadLine());
 
-			repositorio.Exclui(indiceSerie);
+			int indiceSerie = int.Parse(Console.ReadLine());
+			Console.Write("Você tem certeza? Digite 1 - sim ou 2 - não: ");
+			int decisao = int.Parse(Console.ReadLine());
+				if (decisao == 1)
+				{
+				Console.WriteLine("Excluído com sucesso!!");
+				repositorio.Exclui(indiceSerie);
+				return;
+				}
+				else
+				{
+				Console.WriteLine("Escolha outra opção");
+				}
+
 		}
 
         private static void VisualizarSerie()
@@ -146,7 +158,7 @@ namespace DIO.Series
         private static string ObterOpcaoUsuario()
 		{
 			Console.WriteLine();
-			Console.WriteLine("DIO Séries a seu dispor!!!");
+			Console.WriteLine("Organizador de Séries - JUGA LTDA");
 			Console.WriteLine("Informe a opção desejada:");
 
 			Console.WriteLine("1- Listar séries");

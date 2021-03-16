@@ -1,0 +1,16 @@
+C:\workspace\CRUDE\dio-dotnet-poo-lab-2-master\bin\Debug\net5.0\DIO.Series.exe
+C:\workspace\CRUDE\dio-dotnet-poo-lab-2-master\bin\Debug\net5.0\DIO.Series.deps.json
+C:\workspace\CRUDE\dio-dotnet-poo-lab-2-master\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+C:\workspace\CRUDE\dio-dotnet-poo-lab-2-master\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+C:\workspace\CRUDE\dio-dotnet-poo-lab-2-master\bin\Debug\net5.0\DIO.Series.dll
+C:\workspace\CRUDE\dio-dotnet-poo-lab-2-master\bin\Debug\net5.0\ref\DIO.Series.dll
+C:\workspace\CRUDE\dio-dotnet-poo-lab-2-master\bin\Debug\net5.0\DIO.Series.pdb
+C:\workspace\CRUDE\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.Series.csprojAssemblyReference.cache
+C:\workspace\CRUDE\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CRUDE\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+C:\workspace\CRUDE\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+C:\workspace\CRUDE\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\workspace\CRUDE\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.Series.dll
+C:\workspace\CRUDE\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\ref\DIO.Series.dll
+C:\workspace\CRUDE\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.Series.pdb
+C:\workspace\CRUDE\dio-dotnet-poo-lab-2-master\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
