@@ -4,7 +4,14 @@
 
 [Slides](dio-dotnet-poo-lab-2.pdf)
 
-## Contato
+#1º Desafio da DIO
+
+Inserido pelo aluno Thiago Quinaia a opção de confirmação de exclusão - 16/março/2021
+
+
+
+
+## Contato do Instrutor do Desafio
 
 Eliézer Zarpelão
 
